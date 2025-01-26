@@ -3,35 +3,6 @@
 ## Description
 Ce projet a été réalisé dans le cadre du module **Culture Générale**. L'objectif est d'acquérir une méthode efficace pour traiter l'information, développer sa curiosité et enrichir sa culture générale grâce à des recherches et des analyses régulières.
 
-## Structure du Dépôt
-
-Le dépôt est organisé en plusieurs dossiers pour faciliter la navigation et la présentation des travaux :
-
-```
-SAYNA-CULTUREG-PROJET1/
-│
-├── Actualites/
-│   ├── actualites_internationales.pdf
-│   ├── traitement_information.pdf
-│
-├── Podcasts/
-│   ├── podcasts_selectionnes.pdf
-│
-├── Reseaux_Sociaux/
-│   ├── linkedin.pdf
-│   ├── twitter.pdf
-│
-├── Classements/
-│   ├── classement_actualites.pdf
-│   ├── critique_films_series.pdf
-│   ├── destinations_afrique.pdf
-│   ├── destinations_europe.pdf
-│
-├── Technologies/
-│   ├── nouvelles_technologies.pdf
-│
-└── README.md
-```
 
 ## Détails des Sections
 
