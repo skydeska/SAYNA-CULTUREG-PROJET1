@@ -60,7 +60,7 @@ Présentation des innovations technologiques majeures des six derniers mois.
 - **Dépôt GitHub** : Veiller à ce que le dépôt soit public pour l'évaluation.
 
 ## Auteur
-Travail réalisé par [Votre Nom].
+Travail réalisé par LAMBONI Yename Innocent.
 
 ---
 **Bonne lecture !**
