@@ -34,4 +34,4 @@ Présentation des innovations technologiques majeures des six derniers mois.
 Travail réalisé par LAMBONI Yename Innocent.
 
 ---
-**Bonne lecture !**
+
